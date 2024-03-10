@@ -2,18 +2,23 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 
+div{
+
+}
 
 .caja1{
 width: 100px;
 height: 100px;
 margin: auto;
 background-color: blueviolet;
+display: inline-block;
 }
 .caja2{
    width: 100px;
    height: 100px;
    margin: auto;
    background-color: blanchedalmond;
+   display: inline-block;
 }
 
 

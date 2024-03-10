@@ -1,5 +1,14 @@
 
-
+<ul>
+    <li>Wattson puede colocar hasta 12 nodos eléctricos para crear verjas que hacen daño y reducen la velocidad de los enemigos.
+    </li>
+    <li>Empiezas con 4 nodos, que se recargan con el tiempo.
+    </li>
+    <li>Los compañeros de escuadrón de Wattson pueden atravesar estas vallas sin problemas: se desactivarán a su paso.
+    </li>
+    <li>Puedes usarlas como sistema de alerta, ya que si un enemigo pasa a través de una verja tanto tú como tus compañeros recibiréis un aviso.
+    </li>
+</ul>
 [atributo=""]{
     Seleccionas los elemntos con el atributo
 }
